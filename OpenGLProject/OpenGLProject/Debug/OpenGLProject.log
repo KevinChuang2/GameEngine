@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(248): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(253): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(254): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(256): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kevin\documents\opengl\openglproject\openglproject\main.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLProject.vcxproj -> C:\Users\Kevin\Documents\OpenGL\OpenGLProject\Debug\OpenGLProject.exe
+  OpenGLProject.vcxproj -> C:\Users\Kevin\Documents\OpenGL\OpenGLProject\Debug\OpenGLProject.pdb (Partial PDB)

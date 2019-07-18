@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Kevin/Documents/OpenGL/glfw-3.3/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Kevin/Documents/OpenGL/glfw build/examples/CMakeFiles/generate.stamp is up-to-date.
+  sharing.c
+  glad_gl.c
+  Generating Code...
+  sharing.vcxproj -> C:\Users\Kevin\Documents\OpenGL\glfw build\examples\Debug\sharing.exe
+  sharing.vcxproj -> C:/Users/Kevin/Documents/OpenGL/glfw build/examples/Debug/sharing.pdb (Full PDB)

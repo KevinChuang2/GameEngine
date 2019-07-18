@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="3.3.shader"
+    targetNamespace="http://tempuri.org/3.3.shader.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/3.3.shader.xsd"
+    xmlns:mstns="http://tempuri.org/3.3.shader.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+</xs:schema>

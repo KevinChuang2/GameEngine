@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Kevin/Documents/OpenGL/glfw-3.3/examples/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Kevin/Documents/OpenGL/glfw build/examples/CMakeFiles/generate.stamp is up-to-date.
+  boing.c
+  glad_gl.c
+  Generating Code...
+  boing.vcxproj -> C:\Users\Kevin\Documents\OpenGL\glfw build\examples\Debug\boing.exe
+  boing.vcxproj -> C:/Users/Kevin/Documents/OpenGL/glfw build/examples/Debug/boing.pdb (Full PDB)

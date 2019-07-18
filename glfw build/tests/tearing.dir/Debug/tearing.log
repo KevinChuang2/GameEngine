@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Kevin/Documents/OpenGL/glfw-3.3/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Kevin/Documents/OpenGL/glfw build/tests/CMakeFiles/generate.stamp is up-to-date.
+  tearing.c
+  glad_gl.c
+  Generating Code...
+  tearing.vcxproj -> C:\Users\Kevin\Documents\OpenGL\glfw build\tests\Debug\tearing.exe
+  tearing.vcxproj -> C:/Users/Kevin/Documents/OpenGL/glfw build/tests/Debug/tearing.pdb (Full PDB)

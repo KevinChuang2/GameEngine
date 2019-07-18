@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/Kevin/Documents/OpenGL/glfw-3.3/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Kevin/Documents/OpenGL/glfw build/tests/CMakeFiles/generate.stamp is up-to-date.
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> C:\Users\Kevin\Documents\OpenGL\glfw build\tests\Debug\glfwinfo.exe
+  glfwinfo.vcxproj -> C:/Users/Kevin/Documents/OpenGL/glfw build/tests/Debug/glfwinfo.pdb (Full PDB)
